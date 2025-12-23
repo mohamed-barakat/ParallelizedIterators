@@ -34,11 +34,11 @@ To obtain current versions of all dependencies, `git clone` (or `git pull` to up
 [date-img]: https://img.shields.io/endpoint?url=https://homalg-project.github.io/ParallelizedIterators/badge_date.json&label=🔗%20released%20on&color=yellow
 [date-url]: https://homalg-project.github.io/ParallelizedIterators/view_release.html
 
-[tests-img]: https://github.com/homalg-project/ParallelizedIterators/workflows/Tests/badge.svg?branch=master
-[tests-url]: https://github.com/homalg-project/ParallelizedIterators/actions?query=workflow%3ATests+branch%3Amaster
+[tests-img]: https://github.com/homalg-project/ParallelizedIterators/actions/workflows/Tests.yml/badge.svg?branch=master
+[tests-url]: https://github.com/homalg-project/ParallelizedIterators/actions/workflows/Tests.yml?query=branch%3Amaster
 
 [codecov-img]: https://codecov.io/gh/homalg-project/ParallelizedIterators/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/homalg-project/ParallelizedIterators
+[codecov-url]: https://app.codecov.io/gh/homalg-project/ParallelizedIterators
 
 [code-img]: https://img.shields.io/badge/-View%20code-blue?logo=github
 [code-url]: https://github.com/homalg-project/ParallelizedIterators#top
